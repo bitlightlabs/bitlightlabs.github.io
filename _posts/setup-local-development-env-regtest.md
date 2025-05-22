@@ -196,7 +196,7 @@ load wallet's address: bcrt1q2rtzrwrlpjnknsct2re3ez595wx2c9ezmspacl with balance
 
 Now, open `http://localhost:5002/tx/recent` in your browser, you should see the transaction with 25 BTC sent to Alice's address, open it, and you will see the transaction details.
 
-![screen_shot_transaction_details.png](/img/screen_shot_transaction_details.png)
+![screen_shot_transaction_details.png](/_img/screen_shot_transaction_details.png)
 
 Now, let's check the balance of Alice's wallet by running `make alice-cli` or  go back to the previous terminal, and run the following commands:
 ```shell
